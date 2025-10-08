@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Lauri Hanstin
+- Join our latest full stack Match me recommendations app -> https://lets-embed.web.app/
 - 👀 I’m interested in programming, running, outdoor activities, gym and sauna
-- 🌱 I’m currently learning Java, Python and React. I have been self-studying for the past 1 year in Javascript.
-- 📫 How to reach me laurihanstin@gmail.com
+- 🌱 I’m currently learning Java, Python, React and TypeScript. I have been self-studying for the past 2 years in Javascript.
+- 📫 How to reach me laurihanstin at gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
