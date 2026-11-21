@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Lauri Hanstin
-- 📫 Watch a demo of a recommendation app -> https://www.youtube.com/watch?v=AdHihswWdxA&t - built by Hannes, Maxim and me.
 - 👀 I’m interested in programming, running, outdoor activities, gym and sauna
-- 🌱 I’m currently learning Java, Python, React and TypeScript. I have been self-studying for the past 2 years in Javascript.
-- 📫 How to reach me laurihanstin at gmail.com
-
+- :computer: Java, Python, JavaScript and TypeScript. 
+- ✨ After my first internship working with large distributed systems at Playtech I am eager to go more deep
+- :book: Currently reading : DDIA, Kafka: The Definitive Guide
+- 🌱 I feel like programming is an endless journey of excitement through learning and discovering new things.
 
 <!---
 JaniHans/JaniHans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
